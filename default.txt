@@ -1,0 +1,79 @@
+<div style="font-family: Verdana; color: rgb(0, 0, 0); font-size: 14px;">
+    <div style="PADDING-BOTTOM: 0pt; PADDING-LEFT: 82px; WIDTH: 720px; PADDING-RIGHT: 0pt; BACKGROUND: url(http://mat1.gtimg.com/tj/images/qmd.jpg) no-repeat 0px 0px; HEIGHT: 200px; PADDING-TOP: 10px">
+        <div>
+            <font size="2">
+                <font color="#333333">
+                    <b>
+                        Marbhn
+                    </b>
+                    &nbsp;&nbsp;
+                </font>
+            </font>
+            <span style="color: rgb(51, 51, 51); font-size: small; line-height: 19.5px; background-color: initial;">
+                <font face="宋体">
+                    谢京津
+                </font>
+            </span>
+        </div>
+        <div>
+            <font size="2">
+                <font color="#333333">
+                    腾讯大燕网 产品技术部
+                </font>
+            </font>
+        </div>
+        <div>
+            <div style="line-height: 21px;">
+                <font size="2">
+                    <font color="#333333">
+                        手机:13702002911 &nbsp; QQ:416235799
+                    </font>
+                </font>
+            </div>
+            <div style="line-height: 21px;">
+                <font size="2">
+                    <font color="#333333">
+                        邮箱:
+                        <a href="mailto:marbhnxie@jjjtx.com" target="_blank">
+                            &nbsp;
+                            <font color="#333333">
+                                marbhnxie@jjjtx.com
+                            </font>
+                            &nbsp;
+                        </a>
+                        &nbsp; 微信：Marbhn
+                    </font>
+                </font>
+            </div>
+            <div style="line-height: 21px;">
+                <font size="2">
+                    <font color="#333333">
+                        	网站:
+                    </font>
+                    <a href="http://jjj.qq.com/" target="_blank">
+                        <font color="#333333">
+                            http://jjj.qq.com
+                        </font>
+                    </a>
+                </font>
+            </div>
+            <font size="2">
+                <font color="#333333">
+                    <font color="#c0c0c0">
+                        ---------------------------------------------
+                        <br>
+                    </font>
+                    <font color="#333333">
+                        天津市和平区南京路183号世纪都会12层腾讯大燕网 300041
+                        <br>
+                        座机:022-59907666-8048 &nbsp;
+                        <br>
+                    </font>
+                </font>
+            </font>
+        </div>
+    </div>
+    <div>
+        &nbsp;
+    </div>
+</div>
