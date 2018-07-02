@@ -38,6 +38,7 @@ if ($_GET['act'] == 'js')
     {
         $_GET['charset'] = 'UTF8';
     }
+    echo '123';
 
     header('Content-type: application/x-javascript; charset=' . ($_GET['charset'] == 'UTF8' ? 'utf-8' : $_GET['charset']));
 
